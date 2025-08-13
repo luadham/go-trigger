@@ -1,5 +1,5 @@
 package main
 
-import "kali.local:3000/goget/.git"
+import "kali.local/goget/.git"
 
 func main() {}
