@@ -1,5 +1,5 @@
 package main
 
-import "localhost:3000/goget/.git"
+import "172.17.0.1:3000/goget/.git"
 
 func main() {}
